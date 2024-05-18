@@ -9,7 +9,7 @@
                                                           
 ```
 
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/66147422/150655515-88af3f9e-18a7-46f6-b8de-0d2f3c4caa35.gif" width="40px" />, I'm sokin</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/66147422/150655515-88af3f9e-18a7-46f6-b8de-0d2f3c4caa35.gif" width="40px" />, I'm DarkKnightTH</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+%7C+DarkKnight-TH" />
@@ -31,7 +31,7 @@
 
 ### Spotify Playing 🎧
 <p align="center">
-  <a href="https://open.spotify.com/user/u5evr9xaqvek2g6tlpsqud7mz">
+  <a href="https://open.spotify.com/track/5BmF05GWZpmm5JZ5p3yMJr?si=a44819c80366463f">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=u5evr9xaqvek2g6tlpsqud7mz&cover_image=true&theme=default&bar_color=b9f0b7)](https://github.com/kittinan/spotify-github-profile">
 
 
