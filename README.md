@@ -20,19 +20,16 @@
 
 ```diff
 @@Info@@
-🚀 I'm still learning languages like
+💉 If you want to hack fivem?? Contact me.  
 
 ```
 
 ### Connect with me:
 
-[<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> https://hasbulla.lol/ ]
+[<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> https://discord.gg/VzR9mUXWjF ]
 <br />
 
-### Spotify Playing 🎧
-<p align="center">
-  <a href="https://open.spotify.com/track/5BmF05GWZpmm5JZ5p3yMJr?si=a44819c80366463f">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=u5evr9xaqvek2g6tlpsqud7mz&cover_image=true&theme=default&bar_color=b9f0b7)](https://github.com/kittinan/spotify-github-profile">
+
 
 
 
