@@ -27,7 +27,7 @@
 
 ```
 
-### Connect with me:
+### Contact:
 
 [<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> https://discord.gg/VzR9mUXWjF ]
 <br />
