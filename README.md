@@ -33,7 +33,7 @@
 <br />
 
 
-## :computer: Current Programing Languages Im Working In : 
+### Languages : 
 <p>
 	<div align="center">
 		<code><img width="5%" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
